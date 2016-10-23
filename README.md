@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+My names Kieran, 26, from sunny Hull, UK.
